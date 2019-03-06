@@ -4,5 +4,5 @@ Python Test Scripts -PyTest for CS 112 students; Script will automatically scan 
 
 Run tester file using following command: </br>
 
-MacBook: Python3 Tester1p.py code.py </br>
-Windows: py Tester1p.py code.py
+MacBook: "Python3 Tester1p.py code.py" </br>
+Windows: "py Tester1p.py code.py"
